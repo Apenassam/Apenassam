@@ -18,6 +18,13 @@ Meu nome é Talyta Sampaio Silva, tenho 29 anos e sou natural de Manaus. Atualme
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+         <a href="mailto:sampaio_talyta@hotmail.com">
+        <img 
+            alt="E-mail" 
+            title="Envie-me um e-mail" 
+            src="https://img.shields.io/badge/-E--mail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
         <a href="https://github.com/Apenassam?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
