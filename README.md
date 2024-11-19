@@ -4,6 +4,27 @@
 Meu nome é Talyta Sampaio Silva, tenho 29 anos e sou natural de Manaus. Atualmente, estou cursando DevOps na Anhanguera. Sou apaixonada por tecnologia e programação, áreas que me inspiram a aprender e crescer constantemente.  
 
 <p align="left">
+     <a href="https://www.instagram.com/talytasamsilva/" target="_blank">
+        <img 
+            alt="Instagram" 
+            title="Siga-me no Instagram" 
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+    </a>
+        <a href="https://www.linkedin.com/in/talyta-sampaio-667610227/" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Conecte-se no LinkedIn" 
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+        <a href="https://github.com/Apenassam?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Apenassam?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+        />
+    </a>
     <a href="https://github.com/Apenassam?tab=followers">
         <img 
             alt="Seguidores" 
@@ -11,13 +32,7 @@ Meu nome é Talyta Sampaio Silva, tenho 29 anos e sou natural de Manaus. Atualme
             src="https://custom-icon-badges.demolab.com/github/followers/Apenassam?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Apenassam?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Apenassam?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
+
 </p>
 
 ---
